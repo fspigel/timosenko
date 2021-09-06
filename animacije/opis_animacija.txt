@@ -1,0 +1,15 @@
+rubber_asymmetric:
+	gumeni štap pušten iz asimetričnog položaja mirovanja, period 0.5s
+
+rubber_symmetric:
+	gumeni štap pušten iz simetričnog položaja mirovanja, period 0.5s
+
+rubber_symmetric_faster:
+	gumeni štap pušten iz simetričnog položaja mirovanja, period 1s
+
+rubber_mode_comparison.gif:
+	usporedba modela gumenog štapa sa 6 i 20 modova
+
+steel_symmetric.gif:
+	čelični štap pušten iz položaja blage simetrične deformacije 
+	(najviše odstupanje 1cm), period 0.02s
